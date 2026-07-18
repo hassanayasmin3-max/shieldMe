@@ -1,0 +1,37 @@
+body{
+    font-family:Arial, sans-serif;
+    background:#f4f4f4;
+    margin:0;
+    text-align:center;
+}
+
+header{
+    background:#1b3c73;
+    color:white;
+    padding:30px;
+}
+
+.checker{
+    margin:40px auto;
+    background:white;
+    width:60%;
+    padding:20px;
+    border-radius:10px;
+}
+
+input{
+    width:70%;
+    padding:12px;
+}
+
+button{
+    padding:12px 20px;
+    margin-left:10px;
+    cursor:pointer;
+}
+
+#result{
+    font-size:20px;
+    margin-top:20px;
+    font-weight:bold;
+}
